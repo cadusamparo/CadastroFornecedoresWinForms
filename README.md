@@ -117,17 +117,6 @@ Um vídeo explicativo com a apresentação do sistema, demonstração das funcio
 
 ---
 
-## Estrutura do Projeto
-CadastroFornecedoresWinForms/
-Forms/                # Telas do sistema
-Services/             # Serviços de consulta e API
-    AbstractFactory/
-    └️ BrasilApiService.cs
-Database/             # Conexão com o banco (Singleton)
-    └️ Database.cs
-Utils/                # Utilitários e logs
-    └️ Logger.cs
-
 ##  Autor
 
 Desenvolvido por Carlos Eduardo.
