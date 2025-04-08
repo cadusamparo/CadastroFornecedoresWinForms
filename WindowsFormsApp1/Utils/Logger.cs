@@ -19,7 +19,6 @@ namespace SeuProjeto.Utils
             }
             catch (Exception ex)
             {
-                // Se quiser, pode exibir erro de log ou ignorar
                 MessageBox.Show("Erro ao registrar log: " + ex.Message);
             }
         }

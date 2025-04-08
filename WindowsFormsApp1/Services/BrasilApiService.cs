@@ -7,7 +7,7 @@ namespace WindowsFormsApp1.Services
 {
     public class FornecedorCnpj
     {
-        [JsonProperty("razao_social")]  // 👈 Importante: faz o mapeamento correto
+        [JsonProperty("razao_social")] 
         public string nome { get; set; }
 
         public string cnpj { get; set; }

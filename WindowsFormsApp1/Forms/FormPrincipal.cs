@@ -93,5 +93,9 @@ namespace WindowsFormsApp1
             this.Controls.Add(btnSair);
         }
 
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

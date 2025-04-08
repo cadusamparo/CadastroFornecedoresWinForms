@@ -13,13 +13,13 @@ namespace WindowsFormsApp1.Forms
         public FormFornecedor()
         {
             InitializeComponent();
-            EstilizarFormulario(); // ← chama aqui
+            EstilizarFormulario(); 
 
             dgvFornecedores.CellClick += dgvFornecedores_CellClick;
             btnEditar.Click += btnEditar_Click;
             btnExcluir.Click += btnExcluir_Click;
             btnLimpar.Click += btnLimpar_Click;
-            btnConsultarCNPJ.Click += btnConsultarCNPJ_Click; // ← ADICIONA ESTA LINHA
+            btnConsultarCNPJ.Click += btnConsultarCNPJ_Click; 
             ListarFornecedores();
         }
 
@@ -349,7 +349,6 @@ namespace WindowsFormsApp1.Forms
             }
         }
 
-        // Eventos extras (podem ser excluídos se não forem usados)
         private void lblTitulo_Click(object sender, EventArgs e) { }
         private void textBox1_TextChanged(object sender, EventArgs e) { }
         private void label3_Click(object sender, EventArgs e) { }
@@ -367,6 +366,11 @@ namespace WindowsFormsApp1.Forms
         }
 
         private void txtNumero_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTelefone_TextChanged(object sender, EventArgs e)
         {
 
         }

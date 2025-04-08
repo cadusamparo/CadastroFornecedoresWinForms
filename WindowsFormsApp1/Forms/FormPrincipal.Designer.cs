@@ -48,6 +48,7 @@
             this.Controls.Add(this.lblTitulo);
             this.Name = "FormPrincipal";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

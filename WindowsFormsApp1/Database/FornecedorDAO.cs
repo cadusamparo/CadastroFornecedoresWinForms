@@ -17,7 +17,7 @@ namespace WindowsFormsApp1.Database
             connection = Database.Instance.GetConnection();
         }
 
-        // 🔹 Criar Fornecedor
+        //Criar Fornecedor
         public bool AdicionarFornecedor(Fornecedor fornecedor)
         {
             try
