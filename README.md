@@ -8,10 +8,10 @@ Este projeto é um software desktop desenvolvido com C# e .NET Framework, utiliz
 - **Preenchimento manual: caso o usuário prefira, pode preencher todos os campos manualmente.
 
 Além disso, o sistema permite:
-- **Listar** fornecedores cadastrados;
-- **Editar ou excluir** registros;
-- **Armazenar os dados** em banco de dados MariaDB;
-- **Tratar erros** de forma amigável e registrar logs das operações realizadas.
+- Listar fornecedores cadastrados;
+- Editar ou excluir registros;
+- Armazenar os dados em banco de dados MariaDB;
+- Tratar erros de forma amigável e registrar logs das operações realizadas.
 
 O projeto também aplica dois **padrões de projeto (Design Patterns)**: Singleton e Abstract Factory.
 
@@ -130,4 +130,4 @@ Utils/                # Utilitários e logs
 
 ##  Autor
 
-Desenvolvido por Carlos (cadusamparo) como parte de um projeto acadêmico para simular um sistema profissional de cadastro de fornecedores.
+Desenvolvido por Carlos Eduardo.
