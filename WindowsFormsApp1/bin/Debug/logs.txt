@@ -1,0 +1,8 @@
+[08/04/2025 18:06:45] - Falha na consulta de CNPJ: 3213213
+[08/04/2025 18:06:47] - Fornecedor cadastrado: teste - CNPJ: 3213213
+[08/04/2025 18:06:50] - Fornecedor atualizado: ID 2 - 
+[08/04/2025 18:06:52] - Falha na consulta de CNPJ: 3213213
+[08/04/2025 18:06:55] - Fornecedor atualizado: ID 5 - teste
+[08/04/2025 18:07:05] - Fornecedor excluído: ID 5
+[08/04/2025 18:07:07] - Fornecedor excluído: ID 2
+[08/04/2025 18:08:16] - Fornecedor cadastrado: teste - CNPJ: 21321321
