@@ -114,7 +114,7 @@ Motivo: Garante que a lógica da aplicação não fique presa a uma API específ
 
 ## Vídeo Explicativo
 Um vídeo explicativo com a apresentação do sistema, demonstração das funcionalidades e justificativa técnica dos padrões utilizados está disponível no link abaixo:
-
+https://www.youtube.com/watch?v=PkG296wWci4
 ---
 
 ##  Autor
